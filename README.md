@@ -40,10 +40,16 @@ I applied a variety of Excel functions to analyse the data:
 Here are a few screenshots from the project:
 
 1. **Pivot Table and Pivot Chart**:
-   ![Pivot Table and Pivot Chart](./images/pivot_table_chart.png)
+
+    <img width="1060" alt="Screenshot 2025-02-17 at 14 21 05" src="https://github.com/user-attachments/assets/c86f92b2-fe01-4b2a-9012-cf34ee2e0955" />
+
+
    
-2. **Data Analysis with Functions**:
-   ![Excel Data Analysis](./images/excel_analysis.png)
+2. **Example of Dataset**:
+
+<img width="1259" alt="Screenshot 2025-02-17 at 14 29 31" src="https://github.com/user-attachments/assets/006f11c4-cd02-462c-a30d-12412ead84f2" />
+
+
 
 ## Conclusion 🎯
 
